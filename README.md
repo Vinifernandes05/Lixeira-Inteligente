@@ -1,4 +1,4 @@
-# 🗑️📡 Lixeira Inteligente IoT
+# 🗑️ Lixeira Inteligente IoT
 
 ## 📌 Sobre o Projeto
 
