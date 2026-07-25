@@ -44,7 +44,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias/componentes:
 - Sensor de Temperatura e Umidade DHT11
 - Sensor de Gases MQ-135
 - Sensor Infravermelho TCRT5000
-- Fonte de Alimentação
+- Fonte de Alimentação (Bateria 3.4V)
 - Servo Motor
 - LED Verde
 - LED Vermelho
